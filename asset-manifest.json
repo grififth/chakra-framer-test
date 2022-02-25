@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/chakra-framer-test/static/js/main.ba791209.js",
+    "static/js/377.ad379ec4.chunk.js": "/chakra-framer-test/static/js/377.ad379ec4.chunk.js",
+    "index.html": "/chakra-framer-test/index.html",
+    "main.ba791209.js.map": "/chakra-framer-test/static/js/main.ba791209.js.map",
+    "377.ad379ec4.chunk.js.map": "/chakra-framer-test/static/js/377.ad379ec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba791209.js"
+  ]
+}
